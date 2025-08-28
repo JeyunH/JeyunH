@@ -40,6 +40,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=본인아이디&theme=radical" />
+    <img src="https://streak-stats.demolab.com/?user=JeyunH&theme=radical" />
   </a>
 </p>
