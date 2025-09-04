@@ -2,9 +2,10 @@
 
 ### 🏁 완료한 프로젝트
 1) [Java Spring MVC 기반 맛집 추천 웹 서비스 개발](https://github.com/JeyunH/WEB-Project-MatZip.git)
-2) [Java Console 기반 영문타자연습 프로그램 개발](https://github.com/JeyunH/JavaConsole-EngTypingPractice.git)
-3) [Data centric AI 마스크 착용 여부 추론 프로그램 개발](https://github.com/JeyunH/data-centric-mask-detection.git)
-4) [C언어 기반의 오목 게임 AI Player 알고리즘 개발](https://github.com/JeyunH/C-Omok_Algorithm.git)
+2) [Python 웹 스크래핑 기반 학생식당 식단 정보 확인 자동화 프로그램 개발](https://github.com/JeyunH/table-of-meals-app.git)
+3) [Java Console 기반 영문타자연습 프로그램 개발](https://github.com/JeyunH/JavaConsole-EngTypingPractice.git)
+4) [Data centric AI 마스크 착용 여부 추론 프로그램 개발](https://github.com/JeyunH/data-centric-mask-detection.git)
+5) [C언어 기반의 오목 게임 AI Player 알고리즘 개발](https://github.com/JeyunH/C-Omok_Algorithm.git)
       
 ### 💻 현재 진행중인 프로젝트
 1) [시각장애인의 안전한 보행을 위한 AI 기반 충돌 위험 경고 앱 서비스 개발](https://github.com/JeyunH/AI_BlindWalkingHelper.git)
