@@ -1,4 +1,4 @@
-## H/W(기계)와 Design(AI디자인) 그리고 S/W를 융합하여 새로운 가치를 창조하는 <br>개발자 황제윤입니다.
+## 기계(H/W)와 디자인(UX) 그리고 AI S/W를 융합하여 새로운 가치를 창조하는 <br>개발자 황제윤입니다.
 
 ### 🏁 완료한 프로젝트
 1) [Java Spring MVC 기반 맛집 추천 웹 서비스 개발](https://github.com/JeyunH/WEB-Project-MatZip.git)
