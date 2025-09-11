@@ -1,5 +1,10 @@
 ## 기계(H/W)와 디자인(UX) 그리고 AI S/W를 융합하여 새로운 가치를 창조하는 <br>개발자 황제윤입니다.
 
+### 🎓 Education & Learning
+- 🧠 인공지능소프트웨어 | 폴리텍성남 하이테크과정 (이수중)
+- 🎨 AI디자인 (석사) | 국민대학교 테크노디자인전문대학원 졸업
+- ⚙️ 기계시스템디자인공학 (학사) | 서울과학기술대학교 졸업
+  
 ### 🏁 완료한 프로젝트
 1) [Java Spring MVC 기반 맛집 추천 웹 서비스 개발](https://github.com/JeyunH/WEB-Project-MatZip.git)
 2) [Python 웹 스크래핑 기반 학생식당 식단 정보 확인 자동화 프로그램 개발](https://github.com/JeyunH/table-of-meals-app.git)
@@ -16,11 +21,6 @@
 ### 📝 현재 학습중인 분야
 1) AI 딥러닝(특히 LLM) 기술 학습
 2) SpringBoot 기반의 웹사이트 개발/배포
-
-### 🎓 Education & Learning
-- 🧠 인공지능소프트웨어 | 폴리텍성남 하이테크과정 (이수중)
-- 🎨 AI디자인 (석사) | 국민대학교 테크노디자인전문대학원 졸업
-- ⚙️ 기계시스템디자인공학 (학사) | 서울과학기술대학교 졸업
 
 ### 📋 이력 정보
 - [이력서 Page](https://jeyunh.github.io/my-resume.do/)
