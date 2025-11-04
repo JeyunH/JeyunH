@@ -6,17 +6,17 @@
 - ⚙️ 기계시스템디자인 전공 (학사) | 서울과학기술대학교 졸업
   
 ### 🏁 완료한 프로젝트
-1) [Java Spring MVC 기반 맛집 추천 웹 서비스 개발](https://github.com/JeyunH/WEB-Project-MatZip.git)
-2) [Python 웹 스크래핑 기반 학생식당 식단 정보 확인 자동화 프로그램 개발](https://github.com/JeyunH/table-of-meals-app.git)
-3) [Java Console 기반 영문타자연습 프로그램 개발](https://github.com/JeyunH/JavaConsole-EngTypingPractice.git)
-4) [Data centric AI 마스크 착용 여부 추론 프로그램 개발](https://github.com/JeyunH/data-centric-mask-detection.git)
-5) [C언어 기반의 오목 게임 AI Player 알고리즘 개발](https://github.com/JeyunH/C-Omok_Algorithm.git)
+1) [AI 면접 연습 웹 서비스 개발을 위한, 시선/머리 움직임 추적을 통한 집중도 분석 모듈 개발](https://github.com/JeyunH/Gaze-Based-Interview-Focus-Analyzer.git)
+2) [Java Spring MVC 기반 맛집 추천 웹 서비스 개발](https://github.com/JeyunH/WEB-Project-MatZip.git)
+3) [Python 웹 스크래핑 기반 학생식당 식단 정보 확인 자동화 프로그램 개발](https://github.com/JeyunH/table-of-meals-app.git)
+4) [Java Console 기반 영문타자연습 프로그램 개발](https://github.com/JeyunH/JavaConsole-EngTypingPractice.git)
+5) [Data centric AI 마스크 착용 여부 추론 프로그램 개발](https://github.com/JeyunH/data-centric-mask-detection.git)
+6) [C언어 기반의 오목 게임 AI Player 알고리즘 개발](https://github.com/JeyunH/C-Omok_Algorithm.git)
       
 ### 💻 현재 진행중인 프로젝트
 1) [시각장애인의 안전한 보행을 위한 AI 기반 충돌 위험 경고 앱 서비스 개발](https://github.com/JeyunH/AI_BlindWalkingHelper.git)
-2) [AI 면접 연습 웹 서비스 개발을 위한, 시선/머리 움직임 추적을 통한 집중도 분석 모듈 개발](https://github.com/JeyunH/Gaze-Based-Interview-Focus-Analyzer.git)
-3) 반응형 기업 소개 웹사이트 개발 및 상용 배포
-4) LLM 관련 프로젝트 계획중
+2) 반응형 기업 소개 웹사이트 개발 및 상용 배포
+3) LLM 관련 프로젝트 계획중
 
 ### 📝 현재 학습중인 분야
 1) AI 딥러닝(특히 LLM) 기술 학습
@@ -57,11 +57,5 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyunH&layout=compact&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=JeyunH&theme=radical" />
   </a>
 </p>
