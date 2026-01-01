@@ -23,7 +23,7 @@
 2) SpringBoot 기반의 웹사이트 개발/배포
 
 ### 📋 이력 정보
-- [이력서[ㅇ[ Pageg(https://jeyunh.github.io/my-resume.d
+- [이력서 Pages](https://jeyunh.github.io/my-resume.do)
 
 <br>
 
