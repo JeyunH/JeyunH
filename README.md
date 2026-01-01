@@ -22,8 +22,8 @@
 1) AI 딥러닝(특히 LLM) 기술 학습
 2) SpringBoot 기반의 웹사이트 개발/배포
 
-### 📋 이력 정보
-- [이력서 Page](https://jeyunh.github.io/my-resume.do/)
+### 📋 CV
+- [CV Page](https://jeyunh.github.io/my-resume.do/)
 
 <br>
 
