@@ -46,16 +46,3 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       
 </p>
-
-<br>
-
-### 🔥 깃허브 활동 통계
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeyunH&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeyunH&layout=compact&theme=radical" />
-  </a>
-</p>
