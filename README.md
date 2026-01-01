@@ -25,8 +25,6 @@
 ### 📋 이력 정보
 - [이력서 Pages](https://jeyunh.github.io/my-resume.do)
 
-<br>
-
 ### 🛠️ 기술 스택
 
 <p>
